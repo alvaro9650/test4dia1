@@ -12,4 +12,5 @@
     <string name="show">Mostrar</string>
     <string name="message">Mi nombre es %1$s %2$s, tengo %3$d años y voy a aprobar PMDM sin pestañear</string>
     <string name="practice_control">Control de practicas</string>
+    <string name="score">Puntuacion</string>
 </resources>
