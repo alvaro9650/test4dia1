@@ -3,4 +3,10 @@
     <string name="name">Nombre</string>
     <string name="surnames">Apellidos</string>
     <string name="birthyear">Año de nacimiento</string>
+    <string name="q_load_author_information">Cargar informacion del autor?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="author_name">Alvaro</string>
+    <string name="author_surnames">Moreno Navarro</string>
+    <string name="author_birthyear">1999</string>
 </resources>
