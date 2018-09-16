@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">test4dia1</string>
     <string name="name">Nombre</string>
+    <string name="surnames">Apellidos</string>
 </resources>
